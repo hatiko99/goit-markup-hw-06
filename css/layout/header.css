@@ -181,6 +181,10 @@
     display: none;
   }
 
+  .mobile-menu-container {
+    display: none;
+  }
+
   .menu {
     display: block;
   }
@@ -251,6 +255,10 @@
 }
 
 @media screen and (min-width: 1158px) {
+  .mobile-menu-container {
+    display: none;
+  }
+
   .page-header {
     border-bottom: 1px solid #e7e9fc;
     box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 0.08),
