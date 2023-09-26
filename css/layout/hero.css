@@ -11,7 +11,7 @@
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/background-img/background-img-mobile.jpg);
+      url(../../images/background-img/background-img-mobile.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -27,7 +27,7 @@
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/background-img/background-img-mobile@2x.jpg);
+      url(../../images/background-img/background-img-mobile@2x.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -99,7 +99,7 @@
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/background-img/background-img-tablet.jpg);
+      url(../../images/background-img/background-img-tablet.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -115,7 +115,7 @@
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/background-img/background-img-tablet@2x.jpg);
+      url(../../images/background-img/background-img-tablet@2x.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -150,7 +150,7 @@
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/background-img/background-img-desktop.jpg);
+      url(../../images/background-img/background-img-desktop.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -166,7 +166,7 @@
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/background-img/background-img-desktop@2x.jpg);
+      url(../../images/background-img/background-img-desktop@2x.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
